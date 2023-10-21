@@ -22,11 +22,6 @@ A big thank you to the community for the continuous support and learning opportu
 
  
 
-The Home Page of the Spotify Clone offers users a familiar interface resembling the original Spotify website. It allows users to:
-
-- Browse and search for their favorite music.
-- Discover new releases and popular tracks.
-- Access playlists and albums.
 
   ![image](https://github.com/AJIN1304/CookPal/blob/main/coolpal.png)
 
